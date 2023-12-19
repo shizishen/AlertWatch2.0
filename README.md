@@ -3,8 +3,8 @@ The network camera uploads the surveillance video to the SRS streaming server in
 ![Screenshot_20231214_155653](https://github.com/shizishen/AlertWatch2.0/assets/85082613/af40046e-f87a-4654-ac56-bab1c74168b2)
 
 # 流程图以及进程
-##  App推流                ✓   
-##  海康威视摄像头推流  
+    App推流                ✓   
+    海康威视摄像头推流  
       |  
       |  
       |  
